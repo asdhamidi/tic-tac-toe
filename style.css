@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    width: 100%;
+    width: 80%;
     margin: auto;
     height: auto;
     font-size: 3rem;
@@ -130,9 +130,7 @@ footer {
     justify-content: center;
     align-items: center;
     gap: 5px;
-    width: 100%;
-    position: absolute;
-    bottom: 0;
+    width: 50%;
     margin: auto;
     color: #253d5a;
     font-size: 0.75rem;
