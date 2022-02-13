@@ -4,4 +4,4 @@ Classic passtime game created with HTML, CSS and JS.
 
 ![Screenshot](./ttt-ss.png)
 
-Try it out at: https://github.com/asdhamidi/tic-tac-toe
+Try it out at: https://asdhamidi.github.io/tic-tac-toe/
